@@ -9,3 +9,47 @@ body {
 #icons {
     padding: 50px;
   }
+
+.pop-text {
+    font-weight: 700;
+}
+
+/* main {
+    padding: 40px 60px;
+} */
+
+
+address {
+    margin: 28px 0;
+}
+
+form {
+    /* padding: 24px; */
+    background-color: #BAA898;
+    width: 750px;
+}
+
+form > div {
+    margin: 14px 0;
+}
+form label {
+    display: block;
+}
+
+form > fieldset {
+    border-color:black;
+    padding: 22px;
+}
+
+form > fieldset > legend {
+    font-size: 28px;
+}
+
+input, select {
+    width: 100%;
+}
+
+form button {
+    padding: 8px 14px;
+}
+
