@@ -5,3 +5,7 @@ body {
 .main_heading {
     font-family: 'Lobster', cursive; 
 }
+
+.button-color {
+    background-color: #BAA898;
+}
