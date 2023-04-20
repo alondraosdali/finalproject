@@ -10,3 +10,12 @@ body {
 #icons {
     padding: 50px;
   }
+
+.carousel-item {
+    height: 750px;
+
+}
+
+#carousel-item1 {
+    height: 980px;
+}
